@@ -1,3 +1,2 @@
-# config.sh
-REPO_URL="https://github.com/GXUCPC/Gxucpc-system"
-Branch="GreeN"
+REPO_URL="git@github.com:GXUCPC/Gxucpc-system.git"
+Branch="main"
